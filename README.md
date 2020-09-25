@@ -6,9 +6,11 @@
 
 My name is Yue, pronounced as Yu-eh. Currently a Master's student in Computer Science at University of California, San Diego.
 
-- 🔭 I am currently working in Professor Jurgen Schulze's lab on cool Unity projects, including [Bodylogical](https://github.com/IVCenter/Bodylogical_iOS), a VR app for health data visualization.
+- I am currently working in Professor Jurgen Schulze's lab on cool Unity projects, including [Bodylogical](https://github.com/IVCenter/Bodylogical_iOS), a VR app for health data visualization.
 
-- 🌱 I am currently Javascript/Typescript, React, Express and MongoDB, completing an interactive story board called [Exteractive](https://github.com/ALMSIVI/exteractive).
+- I was also an ex-member of Triton XR, and have worked on a VR fighting game called [MechSuit VR](https://github.com/TritonXR/Mechsuit-VR).
+
+- I am currently learning Javascript/Typescript, React, Express and MongoDB, completing an interactive story board called [Exteractive](https://github.com/ALMSIVI/exteractive).
 
 - ⚡ I love playing RPG and RTS games, and listening to metal music in my spare time. The username "ALMSIVI" comes from the [Elder Scrolls series](https://elderscrolls.fandom.com/wiki/Tribunal), while the profile picture is Damnation Angel's [The Valiant Fire](https://www.metal-archives.com/albums/Damnation_Angels/The_Valiant_Fire/488063)
 
