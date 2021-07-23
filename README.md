@@ -4,9 +4,9 @@
 
 My name is Yue, pronounced as Yu-eh. Currently a Master's student in Computer Science at University of California, San Diego.
 
-- I am currently working in Professor Jurgen Schulze's lab on cool Unity projects, including [Bodylogical](https://github.com/IVCenter/Bodylogical_iOS), an AR app for health data prediction and visualization.
+- I worked in Professor Jurgen Schulze's lab on cool Unity projects, including [Bodylogical](https://github.com/IVCenter/Bodylogical_iOS), an AR app for health data prediction and visualization.
 
-- I am also working in UCSD Health as a graduate student researcher, working on a VR project to study the Schizophrenia disease.
+- I also worked in UCSD Health as a graduate student researcher, working on a VR project to study the Schizophrenia disease.
 
 - I was an ex-member of Triton XR, and have worked on a VR fighting game called [MechSuit VR](https://github.com/TritonXR/Mechsuit-VR).
 
