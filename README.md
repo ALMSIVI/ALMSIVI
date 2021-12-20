@@ -2,7 +2,7 @@
 
 <img align="right" width="50%"  alt="Yue's Github stats" src="https://github-readme-stats.vercel.app/api?username=almsivi&hide=stars,issues,contribs&count_private=true&show_icons=true">
 
-My name is Yue, pronounced as Yu-eh. Currently a Master's student in Computer Science at University of California, San Diego.
+My name is Yue, pronounced as Yu-eh. I am an alumni at University of California, San Diego, majoring in Computer Science.
 
 - I worked in Professor Jurgen Schulze's lab on cool Unity projects, including [Bodylogical](https://github.com/IVCenter/Bodylogical_iOS), an AR app for health data prediction and visualization.
 
